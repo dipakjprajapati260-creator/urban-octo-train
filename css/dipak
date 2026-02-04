@@ -1,0 +1,15 @@
+dipak-portfolio/
+│
+├── index.html        (Home)
+├── about.html        (About Me)
+├── projects.html     (Projects / Research)
+├── contact.html      (Contact)
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── main.js
+│
+└── assets/
+    └── profile.png   (optional image)
